@@ -1,5 +1,6 @@
 name: Perform Mixeway Scan
 
+
 jobs:
   mixeway-scan:
     name: Mixeway Scanning
